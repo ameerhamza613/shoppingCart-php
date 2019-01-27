@@ -1,0 +1,75 @@
+a:link,a:visited,a:hover,a:active{
+
+text-decoration: none;
+color: white;
+}
+
+a:hover{
+
+}
+
+form{
+	border: 1px solid black;
+	width: 500px;
+	margin:auto;
+	margin-top: 80px;
+	border-radius: 4px;
+	height: 400px;
+}
+
+#rg{
+ text-align: center;
+ font-size: 16px;
+ color: white;
+ background-color: green;
+ padding: 20px;
+ margin:0px;
+}
+
+.zarb{
+	padding: 0px 0px 0px 100px;
+	margin: 25px 0px 0px 0px;
+
+}
+.zarb label{
+display: block;
+font-family: verdana;
+font-size: 11px;
+font-style: bold;
+}
+.zarb input{
+width: 300px;
+border: 1px solid black;
+border-radius: 5px;
+height: 35px;
+font-size: 16px;
+padding-left: 3px;
+}
+
+.btn{
+	
+	margin-left:100px;
+	margin-top:10px;
+	
+}
+
+.btn input{
+	padding: 4px 12px 4px 12px;
+	border:1px solid seagreen;
+	color: white;
+	border-radius: 2px;
+	background-color: seagreen;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
